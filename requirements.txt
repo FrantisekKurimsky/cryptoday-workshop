@@ -1,0 +1,17 @@
+
+matplotlib==3.6.3
+matplotlib-inline==0.1.6
+numpy==1.24.1
+opencv-python==4.7.0.68
+pandas==1.5.2
+Pillow==9.4.0
+plotly==5.13.1
+scikit-learn==1.2.0
+scipy==1.10.0
+tensorboard==2.9.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.9.0
+tensorflow-estimator==2.9.0
+tensorflow-intel==2.11.0
+tensorflow-io-gcs-filesystem==0.29.0
